@@ -4,9 +4,9 @@
 
 This is a GitHub repository that was created for users of my iOS task manager, [Yata](https://apps.apple.com/sg/app/yata-yet-another-to-do-app/id1631370175), to report bugs and submit feature requests.
 
-## Reporting Bugs and Submitting Feature Requests
+Before making your submission, please take a look under [issues](https://github.com/beetee17/Yet-Another-Todo-App/issues) to see if your issue/request has been made by another user! If that is the case, do upvote it and/or add comments to the existing thread instead of creating a new one.
 
-If you encounter any bugs or have any feature requests, please submit them via the issue tracker. 
+Submit a [bug report with this link](https://github.com/beetee17/Yet-Another-Todo-App/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBUG%5D), or make a [feature request with this link](https://github.com/beetee17/Yet-Another-Todo-App/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=%5BFEATURE%5D). If they do not work for some reason, you can follow the instructions below.
 
 ### How to Submit a Bug Report
 
