@@ -1,4 +1,4 @@
-# Yata
+# Yata: Yet Another Todo App
 
 ## Description
 
