@@ -1,7 +1,5 @@
 # Yata: Yet Another Todo App
 
-## Description
-
 This is a GitHub repository that was created for users of my iOS task manager, [Yata](https://apps.apple.com/sg/app/yata-yet-another-to-do-app/id1631370175), to report bugs and submit feature requests.
 
 Before making your submission, please take a look under [issues](https://github.com/beetee17/Yet-Another-Todo-App/issues) to see if your issue/request has been made by another user! If that is the case, do upvote it and/or add comments to the existing thread instead of creating a new one.
